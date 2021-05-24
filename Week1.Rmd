@@ -1,7 +1,7 @@
 ---
 title: "Xaringan Template"
 subtitle: "An example"
-author: "Patricia Menéndez"
+author: "Data thriller"
 institute: "Department of Econometrics and Business Statistics"
 output:
   xaringan::moon_reader:
